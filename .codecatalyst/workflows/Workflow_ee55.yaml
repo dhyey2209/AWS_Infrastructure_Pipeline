@@ -41,3 +41,5 @@ Actions:
     Configuration:
       StackName: AwsDevopsStack
       CdkCliVersion: 2.1005.0
+    DependsOn:
+      - AWSCDKBootstrap_0d
