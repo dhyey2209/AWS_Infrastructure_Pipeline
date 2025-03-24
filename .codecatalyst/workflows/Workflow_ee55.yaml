@@ -39,5 +39,5 @@ Actions:
     Compute:
       Type: EC2 # Defines the action's properties.
     Configuration:
-      StackName: aws_cdk_deploy
+      StackName: AwsDevopsStack
       CdkCliVersion: 2.1005.0
