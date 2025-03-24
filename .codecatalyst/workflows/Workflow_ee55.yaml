@@ -24,6 +24,7 @@ Actions:
       Type: EC2 # Defines the action's properties.
     Configuration:
       Region: us-east-1
+      CdkCliVersion: 2.1005.0
   AWSCDKDeploy_ea:
     # Identifies the action. Do not modify this value.
     Identifier: aws/cdk-deploy@v2.0.2
@@ -39,3 +40,4 @@ Actions:
       Type: EC2 # Defines the action's properties.
     Configuration:
       StackName: aws_cdk_deploy
+      CdkCliVersion: 2.1005.0
