@@ -1,4 +1,10 @@
 
+Automated AWS infrastructure provisioning using Python CDK, with resources defined as code and deployed through a CodeCatalyst CI/CD pipeline for repeatable, scalable environments. 
+
+Full project write-up: [Read the blog post](https://dhyey-project-portfolio.hashnode.dev/deploying-aws-infrastructure-with-python-cdk-automate-s3-setup-with-codecatalyst) 
+
+
+
 # Welcome to your CDK Python project!
 
 This is a blank project for CDK development with Python.
